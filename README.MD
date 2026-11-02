@@ -1,0 +1,2 @@
+Hệ thống dùng đúng một vé. Hai khách cùng đặt vé cùng thời điểm và hệ thống chạy nhiều backend instance. Em thiết kế thế nào không bán vượt tồn kho:
+C: _Thêm Trường hold để giữ vé trong thời gian sống là 5 phút(thanh toán giữ chỗ tạm thời) sau 5 phút nhả vé ra để người khác thực hiện thao tác mua
